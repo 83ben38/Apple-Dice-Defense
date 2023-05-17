@@ -2,7 +2,7 @@
   <artifact type="jar" name="Apple Dice Defense?:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/Apple_Dice_Defense__jar</output-path>
     <root id="archive" name="Apple Dice Defense_.jar">
-      <element id="module-output" name="Apple Dice Defense?" />
+      <element id="module-output" name="Apple Dice Defense" />
       <element id="extracted-dir" path="$USER_HOME$/Documents/Dialog.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$USER_HOME$/Documents/acm.jar" path-in-jar="/" />
     </root>
